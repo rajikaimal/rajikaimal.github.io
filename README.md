@@ -1,0 +1,1 @@
+# [Hi](https://sindresorhus.com/hi)
