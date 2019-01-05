@@ -22,6 +22,12 @@ body {
 	margin: auto;
 	width: 15%;
 	border-radius: 50%;
+	transition: transform .2s;
+}
+
+.profile-pic: hover {
+	transform: scale(1.2);
+	transform: rotate(25deg);
 }
 
 .description {
@@ -33,3 +39,26 @@ body {
 	text-align: center;
 }
 
+.carpediem {
+	background-color: mediumslateblue;
+	border-radius: 6px;
+	padding: 10px;
+	color: #ffffff;
+}
+
+.dx {
+	background-color: deeppink;
+	border-radius: 6px;
+	padding: 10px;
+}
+
+.dx a {
+	color: #ffffff;
+}
+
+.devtools {
+	background-color: mediumslateblue;
+	border-radius: 6px;
+	padding: 10px;
+	color: #ffffff;
+}
