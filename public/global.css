@@ -1,0 +1,9 @@
+html {
+	font-family: "Poppins", sans-serif;
+}
+body {
+	color: #333;
+	margin: 0;
+	padding: 8px;
+	box-sizing: border-box;
+}
